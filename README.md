@@ -2,7 +2,7 @@
 
 ## Author
 
-
+Michael VanderMyde
 
 ## Description
 
@@ -45,8 +45,8 @@ If you would like to add additional Markdown to the README and need some help on
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
-
+None
